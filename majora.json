@@ -209,6 +209,80 @@
                 { "text": "← ↑ ← → ↓ ← →" }
             ],
             "answer": 4
+        },
+        {
+            "text": "Vilket är Bombers-gängets fullständiga namn?",
+            "alternatives": [
+                { "text": "Bombers Society" },
+                { "text": "Bombers Society of Justice" },
+                { "text": "Bombers Secret Society of Justice" }
+            ],
+            "answer": 3
+        },
+        {
+            "text": "Hur många medlemmar har Bombers-gänget?",
+            "alternatives": [
+                { "text": "5" },
+                { "text": "6" },
+                { "text": "7" }
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Vad heter ledaren för Bombers-gänget?",
+            "alternatives": [
+                { "text": "Joe" },
+                { "text": "Jim" },
+                { "text": "Jack" }
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Vilken av följande karaktärer är INTE en tidigare medlem av Bombers-gänget",
+            "alternatives": [
+                { "text": "Skull Kid" },
+                { "text": "Kafei" },
+                { "text": "Romani" }
+            ],
+            "answer": 3
+        },
+        {
+            "text": "Vilket smeknamn får Link av Romani?",
+            "alternatives": [
+                { "text": "Grasshopper" },
+                { "text": "Frogger" },
+                { "text": "Fairy Kid" },
+                { "text": "Firefly" }
+            ],
+            "answer": 1
+        },
+        {
+            "text": "Hur gammal är Tingle?",
+            "alternatives": [
+                { "text": "25" },
+                { "text": "35" },
+                { "text": "45" },
+                { "text": "55" }
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Vem är Tingles pappa?",
+            "alternatives": [
+                { "text": "Träskguiden" },
+                { "text": "Borgmästare Dotour" },
+                { "text": "Kapten Viscen" }
+            ],
+            "answer": 1
+        },
+        {
+            "text": "Vem är Kafeis mamma?",
+            "alternatives": [
+                { "text": "Kotake" },
+                { "text": "Madame Aroma" },
+                { "text": "Anju" }
+            ],
+            "answer": 2
         }
     ]
 }
